@@ -1,0 +1,18 @@
+# Environment
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Java
+target/
+*.class
+
+# Node / React
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db

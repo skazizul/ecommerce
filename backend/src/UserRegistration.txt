@@ -1,8 +1,0 @@
-User Registration API
-
-POST /api/users/register
-
-Fields:
-- name
-- email
-- password
